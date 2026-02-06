@@ -13,4 +13,3 @@ This repository contains complete solutions to all exercises from www.practicepy
 ## How to Run?
 
 
-
