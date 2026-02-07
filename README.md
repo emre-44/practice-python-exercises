@@ -6,9 +6,9 @@ This repository contains complete solutions to all exercises from www.practicepy
 
 - [x] Exercise 1: Character Input
 - [x] Exercise 2: Odd Or Even  
-- [x] Exercise 3: List Less Than Ten
-- [x] Exercise 4: Divisors
-- [x] Exercise 5: List Overlap
+- [] Exercise 3: List Less Than Ten
+- [] Exercise 4: Divisors
+- [] Exercise 5: List Overlap
 
 ## How to Run?
 
