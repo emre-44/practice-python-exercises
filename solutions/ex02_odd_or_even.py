@@ -14,6 +14,7 @@ If not, print a different appropriate message.
 
 """
 
+
 def odd_or_even():
     """
     Calculate the number is odd or even. If number is a multiple of 4, print different
@@ -28,7 +29,7 @@ def odd_or_even():
 
     num = int(input("Enter the number: "))
 
-    if num % 4 ==0:
+    if num % 4 == 0:
         print(f"{num} is multiple of 4")
 
     elif num % 2 == 0:
