@@ -25,7 +25,7 @@ def list_elements_less_than_5(user_list):
         a: Users list
     
     Returns
-        List of elements less than 5
+        list: List of elements less than 5
 
     """
     less_than_5_list = []

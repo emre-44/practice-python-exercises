@@ -20,9 +20,6 @@ def odd_or_even():
     Calculate the number is odd or even. If number is a multiple of 4, print different
     message
 
-    Returns:
-        int: Number of user
-
     Raises:
         TypeError: non-numeric value
     """
@@ -38,4 +35,7 @@ def odd_or_even():
     else:
         print(f"{num} is even")
 
-    return num
+    return None
+
+#Test Stage
+print(odd_or_even())

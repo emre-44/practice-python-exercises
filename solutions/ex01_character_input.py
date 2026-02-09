@@ -35,3 +35,6 @@ def calculate_100_year():
 
     print(f"Message printed {count} times.")
     return when_100_year
+
+#Test Stage
+print(calculate_100_year())
