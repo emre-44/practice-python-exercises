@@ -2,17 +2,13 @@
 This repository contains complete solutions to all exercises from www.practicepython.org
 
 
-## Exercises List  
+## 📝 Solution List
 
-- [x] Exercise 1: Character Input  
-- [x] Exercise 2: Odd Or Even  
-- [x] Exercise 3: List Less Than Ten  
-- [x] Exercise 4: Divisors  
-- [x] Exercise 5: List Overlap  
-- [] Exercise 6: String Lists  
-- [] Exercise 7: List Comprehensions  
-- [] Exercise 8: Rock Paper Scissors  
+| # | Exercise | Date | Time |
+|---|----------|-------|-------|
+| 1 | [Character Input](exercise_001/cozum.py) | 2026-07-09 | 11 min |
 
-## How to Run?  
+
+
 
 
