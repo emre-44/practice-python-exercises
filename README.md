@@ -15,3 +15,4 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 7 | [List Comprehensions](./solutions/ex07_list_comprehensions.py) | 07/08/2026 | 3  min |
 | 8 | [Rock Paper Scissors](./solutions/ex08_rock_paper_scissors.py) | 08/08/2026 | 19 min |
 | 9 | [Guessing Game One](./solutions/ex09_guessing_game_one.py) | 09/08/2026 | 12 min |
+| 10 | [List Overlap Comprehensions](./solutions/ex10_list_overlap_comprehensions.py) | 10/08/2026 | 7 min |
