@@ -14,3 +14,4 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 6 | [String Lists](./solutions/ex06_string_lists.py) | 06/08/2026 | 12 min |
 | 7 | [List Comprehensions](./solutions/ex07_list_comprehensions.py) | 07/08/2026 | 3  min |
 | 8 | [Rock Paper Scissors](./solutions/ex08_rock_paper_scissors.py) | 08/08/2026 | 19 min |
+| 9 | [Guessing Game One](./solutions/ex09_guessing_game_one.py) | 09/08/2026 | 12 min |
