@@ -16,3 +16,4 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 8 | [Rock Paper Scissors](./solutions/ex08_rock_paper_scissors.py) | 08/08/2026 | 19 min |
 | 9 | [Guessing Game One](./solutions/ex09_guessing_game_one.py) | 09/08/2026 | 12 min |
 | 10 | [List Overlap Comprehensions](./solutions/ex10_list_overlap_comprehensions.py) | 10/08/2026 | 7 min |
+| 11 | [Check Primality Functions](./solutions/ex11_check_primality_functions.py) | 11/08/2026 | 5 min |
