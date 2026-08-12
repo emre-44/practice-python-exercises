@@ -19,7 +19,6 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 11 | [Check Primality Functions](./solutions/ex11_check_primality_functions.py) | 11/08/2026 | 5 min |
 | 12 | [List Ends](./solutions/ex12_list_ends.py) | 12/08/2026 | 6 min |
 
-
 ---
 
 ## 🔄 Alternative Solutions
