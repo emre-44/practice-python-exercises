@@ -17,3 +17,11 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 9 | [Guessing Game One](./solutions/ex09_guessing_game_one.py) | 09/08/2026 | 12 min |
 | 10 | [List Overlap Comprehensions](./solutions/ex10_list_overlap_comprehensions.py) | 10/08/2026 | 7 min |
 | 11 | [Check Primality Functions](./solutions/ex11_check_primality_functions.py) | 11/08/2026 | 5 min |
+
+---
+
+## 🔄 Alternative Solutions
+
+| # | Exercise | v1 | v2 | v3 | v4 | Best |
+|---|----------|----|----|----|----|------|
+| 1 | Character Input | [Lambda](./alternative-solutions/ex01_lambda.py) | - | - | - | ⭐ One-liner |
