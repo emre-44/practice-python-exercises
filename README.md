@@ -26,4 +26,4 @@ This repository contains complete solutions to all exercises from www.practicepy
 | # | Exercise | v1 | v2 | v3 | v4 | Best |
 |---|----------|----|----|----|----|------|
 | 1 | Character Input | [Lambda Function](./alternative-solutions/ex01_lambda.py) | - | - | - | ⭐ Lambda |
-| 2 | Odd or Even | [Tenrary Operator](./alternative-solutions/ex01_lambda.py) | - | - | - | ⭐ Lambda |
+| 2 | Odd or Even | [Tenrary Operator](./alternative-solutions/ex02_tenrary.py) | - | - | - | - |
