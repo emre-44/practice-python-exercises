@@ -18,6 +18,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 10 | [List Overlap Comprehensions](./solutions/ex10_list_overlap_comprehensions.py) | 10/08/2026 | 7 min |
 | 11 | [Check Primality Functions](./solutions/ex11_check_primality_functions.py) | 11/08/2026 | 5 min |
 | 12 | [List Ends](./solutions/ex12_list_ends.py) | 12/08/2026 | 6 min |
+| 13 | [Fibonacci](./solutions/ex13_fibonacci.py) | 13/08/2026 | 2 min |
 
 ---
 
