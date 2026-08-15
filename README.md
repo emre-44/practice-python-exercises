@@ -20,6 +20,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 12 | [List Ends](./solutions/ex12_list_ends.py) | 12/08/2026 | 6 min |
 | 13 | [Fibonacci](./solutions/ex13_fibonacci.py) | 13/08/2026 | 2 min |
 | 14 | [List Remove Duplicates](./solutions/ex14_list_remove_duplicates.py) | 14/08/2026 | 5 min |
+| 15 | [Reverse Word Order](./solutions/ex15_reverse_word_order.py) | 15/08/2026 | 3 min |
 
 ---
 
