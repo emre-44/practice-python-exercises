@@ -21,6 +21,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 13 | [Fibonacci](./solutions/ex13_fibonacci.py) | 13/08/2026 | 2 min |
 | 14 | [List Remove Duplicates](./solutions/ex14_list_remove_duplicates.py) | 14/08/2026 | 5 min |
 | 15 | [Reverse Word Order](./solutions/ex15_reverse_word_order.py) | 15/08/2026 | 3 min |
+| 16 | [Password Generator](./solutions/ex16_password_generator.py) | 24/08/2026 | 11 min |
 
 ---
 
