@@ -25,6 +25,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 17 | [Decode A Web Page](./solutions/ex17_decode_web_page.py) | 25/08/2026 | 25  min |
 | 18 | [Cows and Bulls](./solutions/ex18_cows_and_bulls.py) | 26/08/2026 | 30  min |
 | 19 | [Decode A Web Page 2](./solutions/ex19_decode_web_page_two.py) | 31/08/2026 | 25  min |
+| 20 | [Element Search](./solutions/ex20_element_search.py) | 01/09/2026 | 10 min |
 
 ---
 
