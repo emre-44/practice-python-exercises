@@ -29,6 +29,8 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 21 | [Write To A File](./solutions/ex21_write_to_file.py) | 02/09/2026 | 25 min |
 | 22 | [Read From File](./solutions/ex22_read_from_file.py) | 03/09/2026 | 15 min |
 | 23 | [File Overlap](./solutions/ex23_file_overlap.py) | 04/09/2026 | 8 min |
+| 24 | [Draw A Game Board](./solutions/ex24_draw_board_game.py) | 05/09/2026 | 25 min |
+
 ---
 
 ## 🔄 Alternative Solutions
