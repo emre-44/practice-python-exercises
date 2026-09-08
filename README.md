@@ -31,6 +31,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 23 | [File Overlap](./solutions/ex23_file_overlap.py) | 04/09/2026 | 8 min |
 | 24 | [Draw A Game Board](./solutions/ex24_draw_board_game.py) | 05/09/2026 | 25 min |
 | 25 | [Guessing Game Two](./solutions/ex25_guessing_game_two.py) | 07/09/2026 | 14 min |
+| 26 | [Check Tic Tac Toe](./solutions/ex26_check_tic_tac_toe.py) | 08/09/2026 | 18 min |
 
 ---
 
