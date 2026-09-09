@@ -32,6 +32,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 24 | [Draw A Game Board](./solutions/ex24_draw_board_game.py) | 05/09/2026 | 25 min |
 | 25 | [Guessing Game Two](./solutions/ex25_guessing_game_two.py) | 07/09/2026 | 14 min |
 | 26 | [Check Tic Tac Toe](./solutions/ex26_check_tic_tac_toe.py) | 08/09/2026 | 18 min |
+| 27 | [Tic Tac Toe Draw](./solutions/ex27_tic_tac_toe_draw.py) | 09/09/2026 | 38 min |
 
 ---
 
