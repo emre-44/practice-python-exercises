@@ -33,6 +33,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 25 | [Guessing Game Two](./solutions/ex25_guessing_game_two.py) | 07/09/2026 | 14 min |
 | 26 | [Check Tic Tac Toe](./solutions/ex26_check_tic_tac_toe.py) | 08/09/2026 | 18 min |
 | 27 | [Tic Tac Toe Draw](./solutions/ex27_tic_tac_toe_draw.py) | 09/09/2026 | 38 min |
+| 28 | [Max Of Three](./solutions/ex28_max_of_three.py) | 10/09/2026 | 6 min |
 
 ---
 
