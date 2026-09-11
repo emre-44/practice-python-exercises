@@ -34,6 +34,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 26 | [Check Tic Tac Toe](./solutions/ex26_check_tic_tac_toe.py) | 08/09/2026 | 18 min |
 | 27 | [Tic Tac Toe Draw](./solutions/ex27_tic_tac_toe_draw.py) | 09/09/2026 | 38 min |
 | 28 | [Max Of Three](./solutions/ex28_max_of_three.py) | 10/09/2026 | 6 min |
+| 29 | [Tic Tac Toe Game](./solutions/ex29_tic_tac_toe_game.py) | 11/09/2026 | 6 min |
 
 ---
 
