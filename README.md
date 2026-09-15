@@ -38,7 +38,7 @@ This repository contains complete solutions to all exercises from www.practicepy
 | 30 | [Pic Word](./solutions/ex30_pick_word.py) | 12/09/2026 | 21 min |
 | 31 | [Guess Letters](./solutions/ex31_guess_letters.py) | 13/09/2026 | 17 min |
 | 32 | [Hangman](./solutions/ex32_hangman.py) | 14/09/2026 | 18 min |
-
+| 33 | [Birthday Dictionaries](./solutions/ex33_birthday_dictionaries.py) | 15/09/2026 | 12 min |
 
 ---
 
